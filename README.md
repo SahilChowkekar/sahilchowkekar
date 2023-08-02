@@ -3,7 +3,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://miro.medium.com/v2/resize:fit:1100/0*ygaHmPjQnVmEApdT.gif" />
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sahilchowkekar.vercel.app/).
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sahilchowkekar.vercel.app/)
 
 - 👨‍💻 I’m pursuing my **Master's in Computer Science at the University of California, Riverside**
 
